@@ -1,0 +1,23 @@
+{
+  "name": "fake_mas_service",
+  "version": "1.0.0",
+  "description": "fake_mas_service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "swagger",
+    "express"
+  ],
+  "author": "Chunyu Jiang",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.17.1",
+    "swagger-jsdoc": "^4.0.0",
+    "swagger-ui-express": "^4.1.4"
+  },
+  "devDependencies": {}
+}
